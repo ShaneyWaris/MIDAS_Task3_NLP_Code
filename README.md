@@ -8,7 +8,8 @@ https://midas-task3-shaneywaris.herokuapp.com/
 ### WebApp Github Repository: <br>
 https://github.com/ShaneyWaris/Midas_Task3_ShaneyWaris
 
+<br><br>
 
-Name: Shaney Waris
-Roll no.: 2018308
+Name: Shaney Waris <br>
+Roll no.: 2018308 <br>
 Email: shaney18308@iiitd.ac.in
